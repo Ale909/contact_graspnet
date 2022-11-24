@@ -1,3 +1,4 @@
+#!/bin/bash
 curl -Ls --compressed  https://github.com/Akianonymus/gdrive-downloader/raw/master/install.sh | sudo sh -s -- --path /usr/local/bin
 gdl 1v0_QMTUIEOcu09Int5V6N2Nuq7UCtuAA -d /tmp
 
